@@ -17,6 +17,11 @@ Cashier Program based on Python Programming Language dedicated for PACMANN's Pyt
 1. Download all modules into single local repository
 2. Open the terminal and run the 'main.py'
 
+## PROGRAM FLOW
+1.
+2.
 ## TEST CASE RESULT
 
-## SUGGESTIONS
+## FUTURE WORK SUGGESTIONS
+1. Add GUI
+2. Use Flutter to be able to run in Android mobile
