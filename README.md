@@ -31,6 +31,9 @@ Cashier Program based on Python Programming Language dedicated for PACMANN's Pyt
  2.6 Reset Transaction 
  2.7 Total Price 
 ## TEST CASE RESULT
+#### Test Case 1 
+[Screenshot 2023-02-12 200552](https://user-images.githubusercontent.com/88239996/218312826-89155669-869b-4236-8dce-79515157398c.jpg)
+ 
 
 ## FUTURE WORK SUGGESTIONS
 1. Add GUI
