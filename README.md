@@ -18,8 +18,18 @@ Cashier Program based on Python Programming Language dedicated for PACMANN's Pyt
 2. Open the terminal and run the 'main.py'
 
 ## PROGRAM FLOW
-1.
-2.
+1. Choose between options of add item, update item name,update item price,update item qty
+   delete item, reset transaction, or total price
+2. Branching:
+ 2.1 Add item
+  Parameter : item's name,price,and quantity -> infinitely loops until the break command
+ 2.2 Update Item Name
+  Parameter : 
+ 2.3 Update Item Price 
+ 2.4 Update Item Quantity 
+ 2.5 Delete Item 
+ 2.6 Reset Transaction 
+ 2.7 Total Price 
 ## TEST CASE RESULT
 
 ## FUTURE WORK SUGGESTIONS
