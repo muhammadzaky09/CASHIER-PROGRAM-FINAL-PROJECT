@@ -8,3 +8,15 @@ Cashier Program based on Python Programming Language dedicated for PACMANN's Pyt
     - Calculating the total price
 2. Applying prior knowledge of Python Language using OOP Paradigm
 3. Creating program based on clean code and PEP8
+
+## TASK DESCRIPTION
+1. Module 'transactionModule.py' contains the application modules
+2. Module 'main.py' has the main application
+
+## HOW TO RUN THE PROGRAM
+1. Download all modules into single local repository
+2. Open the terminal and run the 'main.py'
+
+## TEST CASE RESULT
+
+## SUGGESTIONS
